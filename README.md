@@ -1,0 +1,31 @@
+<html>
+
+<center><font color="orange"><b><font size=5>PELIRROJOS EN EL MUNDO 
+</center></font color="pink"></b></font size=5> 
+<text>Se llama pelirojos a aquellos que tienen la característica de poseer cabello de color aranjado rojizo, debido a la producción de muy poca eumelanina, de color castaño oscuro o negro-rubio claro, resultando en un cabello de color rojo o granate-rosado claro, dando lugar al característico color anaranjado. Las diversas tonalidades de cabello varían según la cantidad y consentración de dos tipos de melanina, siendo de más claro a más oscuro. 
+<CENTER><table border=1 width-80% bgcolor="peachpuff"> 
+<tr>
+ <td>TONOS DE PELIRROJO</td> 
+<td>MÁS CLARO</td> 
+<td>CLARO</td> <td>MÁS OSCURO</td> 
+<td>INTERMEDIO</td> <td>OSCURO</td> 
+</tr>
+ <tr> 
+<td>Pelirrojo rosado</td> 
+<td>Rubio fresa</td> 
+<td>Cobrizo</td> 
+<td>Tiziano</td> 
+<td>Jenjibre</td> 
+<td>Castaño claro rojizo</td> 
+</tr> 
+<p>
+</CENTER></table border=1 width=1008 bgcolor="pink"> 
+</p>
+<center><img src="IMAGENES/collage.JPG" height="350px" width="300px" style="borde: 5px sólido #e9967A"/></center> 
+<p><text>El color pelirrojo se esconde cuando hay presencia de una mayor cantidad de eumelanina. La prescencia de pelirrojos generalmente está asociada a ua
+ pigmentación más clara, presencia de pecas, aunque no siempre, y una mayor propensión a melanomas y otros transtornos cútaneos; y está relacionada con el color verde, avellana y amarillo (ambar) de ojos, debido a la presencia de feomelamina, siendo amarilla en el caso de los ojos, la cual recibe también el nombre de lipocromo. 
+Y como un dato interesante: Las personas con dicho gen suelen presentar mayor sensibilidad a los cambios de temperatura. Sin embargo, esto les permite adaptarse antes y tolerar mejor el frío o el calor.</p> 
+<p> 
+<b><i><font color="orange"><font size=3>Camilia Saravasti Bustamante Ortiz</font size=3><i></font color="orange"></b> </p> 
+<p><i><font color="orange"><font size=5>EDUCACIÓN PARA EL TRABAJO</font size=5><i></font color="orange"> </p> 
+</html>
